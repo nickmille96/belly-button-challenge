@@ -28,9 +28,7 @@ var sample_values= subject.sample_values;
         //var otuIdSlice= otuIds.slice(0,10).reverse();
         //var otuLabels= sampleInfo[0].otu_l;
         //var otuLabelsSlice= otuLabels.slice(0,10).reverse();
-        //var metaData= data.metadata;
-        //var metDataS= metaData.filter(row => row.id== sample);
-        //var wash= metaDataSample[0].wfreq; 
+
 
    //     )
 //
